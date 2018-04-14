@@ -1,10 +1,22 @@
 +++[Main category]
   +++[Baldur's Gate series]
     +++[Game mechanics]
-      Ability Scores
       Armor Class
       THAC0
-      +++[Status effects]Status Effects
-      +++[Cheats]
+      +++[Ability scores]Ability Scores
+      [Status effects]Status Effects
+        Helpless
+        [Positive status effects]
+          Luck (status effect)
+        [Neutral status effects]
+          Free Action (status effect)
+        [Negative status effects]
+          Acid
+          Blinded
+          Fatigue
+          Intoxicated
+      [Cheats]
+        Console
+        ---Exploits
 
 Near Infinity
