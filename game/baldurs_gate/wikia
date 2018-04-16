@@ -4,7 +4,12 @@
       Armor Class
       THAC0
       +++[Ability scores]Ability Scores
+        Strength
+        Dexterity
         Constitution
+        Intelligence
+        Wisdom
+        Charisma
       [Status effects]Status Effects
         Helpless
         [Positive status effects]
