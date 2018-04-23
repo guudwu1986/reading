@@ -1,18 +1,23 @@
 +++[Main category]
   +++[Baldur's Gate series]
     +++[Game mechanics]
+      Game Terminology
       THAC0
         Armor Class
-      Alignment
       Reputation
-      Dialog Window
-      +++[Ability scores]Ability Scores
-        Strength
-        Dexterity
-        Constitution
-        Intelligence
-        Wisdom
-        Charisma
+      Damage Control
+      Infinity Engine
+        Dialog Window
+      Character Generation
+        Alignment
+        +++[Ability scores]Ability Scores
+          Strength
+          Dexterity
+          Constitution
+          Intelligence
+          Wisdom
+          Charisma
+        +++[Classes]Classes
       [Status effects]Status Effects
         Helpless
         [Positive status effects]
@@ -27,8 +32,20 @@
       [Cheats]
         Console
         ---Exploits
+    [Development]
+      [Companies]
+        Black Isle
+        BioWare
+        Beamdog
+        Interplay
+      [Credits]
+        Voice Actors
+      [Patches]
+        Release Notes
 
 Near Infinity
 ---Gorion's Ward
   Abdel Adrian
 Find Familiar
+
+ vim: set fdm=indent:
