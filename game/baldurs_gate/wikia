@@ -10,37 +10,62 @@
         Dialog Window
       Character Generation
         Alignment
-        +++[Ability scores]Ability Scores
+        [Ability scores]Ability Scores
           Strength
           Dexterity
           Constitution
           Intelligence
           Wisdom
           Charisma
-        +++[Classes]Classes
+        [Classes]Classes
           Fighter
             Fighter(Baldur's Gate)
             Berserker
-            Kensai
             Wizard Slayer
+            Kensai
+            !!!Dwarven Defender
             Barbarian
+          Paladin
+            Paladin(Baldur's Gate)
+            Cavalier
+            Inquisitor
+            Undead Hunter
+            Blackguard
           Ranger
             Ranger (Baldur's Gate)
             Archer
             Stalker
+            Beast Master
           Cleric
             Cleric(Baldur's Gate)
+            !!!Priest of Talos
+            Priest of Helm
+            Priest of Lathander
+            !!!Priest of Tyr
           Druid
+            Druid(Baldur's Gate)
+            !!!Totemic Druid
+            Shapeshifter
             Avenger
           Thief
             Thief (Baldur's Gate)
             Assassin
             Bounty Hunter
             Swashbuckler
+            !!!Shadowdancer
           Bard
             Bard(Baldur's Gate)
             Blade
             Jester
+            Skald
+          [Class kits]
+          !!![Multi-Class]
+            Cleric/Mage
+            Cleric/Ranger
+            Cleric/Thief
+            Fighter/Cleric
+            Fighter/Druid
+            Fighter/Mage
       [Status effects]Status Effects
         Helpless
         [Positive status effects]
