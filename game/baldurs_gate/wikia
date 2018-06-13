@@ -1,5 +1,18 @@
 +++[Main category]
   +++[Baldur's Gate series]
+    +++[World]
+      +++[Deities]
+        Ao
+      Toril
+        Faerun
+          Sword Coast
+        Anchorome
+        Kara-Tur
+        Maztica
+        Zakhara
+        Trackless Sea
+      Time of Troubles
+        Bhaalspawn
     +++[Game mechanics]
       Game Terminology
       THAC0
@@ -58,6 +71,12 @@
             Blade
             Jester
             Skald
+          Monk
+            !!!Dark Moon Monk
+            !!!Sun Soul Monk
+          Shaman
+          Sorcerer
+            !!!Dragon Disciple
           [Class kits]
           !!![Multi-Class]
             Cleric/Mage
@@ -66,6 +85,11 @@
             Fighter/Cleric
             Fighter/Druid
             Fighter/Mage
+            Fighter/Mage/Thief
+            Fighter/Thief
+            Fighter->Mage
+            Mage/Thief
+        Weapon Proficiency
       [Status effects]Status Effects
         Helpless
         [Positive status effects]
@@ -95,5 +119,19 @@ Near Infinity
 ---Gorion's Ward
   Abdel Adrian
 Find Familiar
+Broken Weapon
++++[Races]
+  [Aasimar]
+    ---Caelar Argent
+  +++[Dwarves]Dwarf
+  +++[Elves]Elf
+    +++[Drow]Drow
+  +++[Gnomes]Gnome
+  +++[Half-elves]Half-elf
+  +++[Half-orcs]Half-orc
+  +++[Halflings]Halfling
+  +++[Humans]Human
+  [Orcs]Orc
+    [Orogs]Orog
 
  vim: set fdm=indent:
