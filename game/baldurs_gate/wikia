@@ -1,18 +1,5 @@
 +++[Main category]
   +++[Baldur's Gate series]
-    +++[World]
-      +++[Deities]
-        Ao
-      Toril
-        Faerun
-          Sword Coast
-        Anchorome
-        Kara-Tur
-        Maztica
-        Zakhara
-        Trackless Sea
-      Time of Troubles
-        Bhaalspawn
     +++[Game mechanics]
       Game Terminology
       THAC0
@@ -104,6 +91,49 @@
       [Cheats]
         Console
         ---Exploits
+    +++[Abilities]
+      +++[Class abilities]
+        Aura of Despair
+        Battle Song
+          Jester Song
+          Defensive Spin
+          Offensive Spin
+        Enrage
+          Barbarian Rage
+          Berserk
+        Lay On Hands(monk)
+          Flaming Fists
+          Quivering Palm
+          Stunning Blow
+        Lay On Hands(paladin)
+          Dispel Magic(inquisitor)
+          Turn Undead
+        Thieving Abilities
+          Backstab
+          Stealth
+        Summon Spirit Animal
+      +++[High-level class abilities]
+      +++[Bhaalspawn abilities]
+    +++[World]
+      +++[Deities]
+        Ao
+      Toril
+        Faerun
+          Sword Coast
+        Anchorome
+        Kara-Tur
+        Maztica
+        Zakhara
+        Trackless Sea
+      Time of Troubles
+        Bhaalspawn
+    +++[Areas]Areas
+      Candlekeep
+        Candlekeep Inn
+          Tutor
+    +++[Quests]Quests
+      +++[Storyline]
+        Baldur's Gate Prologue
     [Development]
       [Companies]
         Black Isle
@@ -120,7 +150,7 @@ Near Infinity
   Abdel Adrian
 Find Familiar
 Broken Weapon
-+++[Races]
+[Races]
   [Aasimar]
     ---Caelar Argent
   +++[Dwarves]Dwarf
