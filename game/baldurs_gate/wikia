@@ -134,11 +134,28 @@
     +++[Quests]Quests
       +++[Storyline]
         Baldur's Gate Prologue
-    +++[Mods]
+    [Mods]
+      [Mod managers]
+        Big World Setup
       [Big mods]
         BG1 Tutu
         Baldur's Gate Trilogy
         Enhanced Edition Trilogy
+      [Restoration mods]
+        Ascension
+        Unfinished Business(Baldur's Gate)
+        Unfinished Business(Baldur's Gate II)
+        [Kit and tweak mods]
+          Hivemaster
+      [Tactical AI mods]
+        Sword Coast Stratagems
+      [Source browsers and editors]
+        Save Editors
+        Near Infinity
+          Infinity Explorer
+      [Visual and audio mods]
+        Portraits Portraits Everywhere
+      +++[Mod elements]
     [Development]
       [Companies]
         Black Isle
@@ -150,7 +167,6 @@
       [Patches]
         Release Notes
 
-Near Infinity
 ---Gorion's Ward
   Abdel Adrian
 Find Familiar
@@ -168,5 +184,9 @@ Broken Weapon
   +++[Humans]Human
   [Orcs]Orc
     [Orogs]Orog
+[Companions]Companions
+  [Companion powers]
+  [Temporary companions]
+Summon Ghostly Defender
 
  vim: set fdm=indent:
